@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cajisha
-- 👀 I’m interested in web development and design
+- 👀 I’m interested in front-end development and design
 - 🌱 I’m currently learning JS and building real projects
-- 💞️ I’m looking to collaborate and create
+- 💞️ I’m looking to collaborate and create tools for educators and students
 - 📫 you can reach me at cajishat@gmail.com 
 
 <!---
